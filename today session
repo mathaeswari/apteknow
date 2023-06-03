@@ -1,0 +1,12 @@
+DJANGO	FLASK
+Django follows a "batteries included" philosophy, which means that it comes with many built-in features and tools that make it easy to build complex web applications quickly
+	Flask, on the other hand, follows a "micro" framework philosophy, which means that it provides only the essential tools for building a web application, leaving the developer to choose and add other libraries or extensions as needed.
+Django has a built-in URL routing system, which makes it easy to map URLs to views.	Flask, on the other hand, requires the developer to define the URL routing manually.
+Django has a built-in Object-Relational Mapping (ORM) system, which makes it easy to interact with a database.	Flask, on the other hand, does not have a built-in ORM, but developers can use third-party libraries such as SQL Alchemy.
+Django has a built-in template engine that allows developers to create HTML templates that can be dynamically rendered with data	Flask, on the other hand, does not have a built-in template engine, but developers can use third-party libraries
+Django not support	Flask's built-in support for JSON
+Django involves machine learning	If you are building a web application that involves machine learning or data science, Flask may be a better choice
+Django not support streaming data	Flask also has built-in support for streaming data, which can be useful for real-time data processing.
+Django has a built-in routing system that maps URLs to specific views, making it easier to handle requests and responses	Flask, on the other hand, provides a flexible routing system that allows developers to define their own routing rules using decorators.
+Django has a steeper learning curve due to its many built-in features and components.	Flask, on the other hand, has a smaller learning curve because it provides only the core functionality needed to build a web application.
+
